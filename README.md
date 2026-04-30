@@ -111,4 +111,4 @@ MiVee is built by a solo entrepreneur based in Yangon, with a passion for making
 
 ---
 
-*MiVee Prototype v0.3 · Yangon, Myanmar*
+*MiVee Prototype  · Yangon, Myanmar*
