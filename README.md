@@ -60,7 +60,7 @@ Delivery is available across all **19 townships in Yangon**.
 
 ## 🗂️ Prototype
 
-This repository contains the **MiVee Prototype v0.3** — a fully interactive HTML prototype covering 16 screens:
+This repository contains the **MiVee Prototype ** — a fully interactive HTML prototype covering 16 screens:
 
 - Home, Products, Cart
 - Address Selection (all 19 Yangon townships)
@@ -95,7 +95,7 @@ MiVee sources products through **regional wholesale distributors** of internatio
 
 ## 🚀 Roadmap
 
-- [x] Interactive prototype (v0.3) — 16 screens
+- [x] Interactive prototype  — 16 screens
 - [ ] Hand off prototype to development team
 - [ ] Build production app (mobile-first)
 - [ ] Establish distributor sourcing relationships
