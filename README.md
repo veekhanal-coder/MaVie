@@ -1,12 +1,12 @@
-# 🌸 MiVee — For Burmese Mums
+# 🌸 MaVie - For Burmese Mums
 
-> A community-first e-commerce platform connecting mothers in Yangon — shop, connect, and grow together.
+> A community-first e-commerce platform connecting mothers in Yangon - shop, connect, and grow together.
 
 ---
 
-## 📱 What is MiVee?
+## 📱 What is MaVie?
 
-MiVee is a mobile-first app designed specifically for mothers in Yangon, Myanmar. It combines a curated baby and maternal products shop with a verified community space — so mums can shop trusted brands, join local playgroups, and connect with other mothers, all in one place.
+MaVie is a mobile-first app designed specifically for mothers in Yangon, Myanmar. It combines a curated baby and maternal products shop with a verified community space - so mums can shop trusted brands, join local playgroups, and connect with other mothers, all in one place.
 
 ---
 
@@ -36,7 +36,7 @@ Delivery is available across all **19 townships in Yangon**.
 - AYAPay
 - Cash on Delivery (COD)
 
-> 💡 No credit card required — all payments via local Myanmar mobile wallets.
+> 💡 No credit card required - all payments via local Myanmar mobile wallets.
 
 ---
 
@@ -60,7 +60,7 @@ Delivery is available across all **19 townships in Yangon**.
 
 ## 🗂️ Prototype
 
-This repository contains the **MiVee Prototype ** — a fully interactive HTML prototype covering 16 screens:
+This repository contains the **MiVee Prototype ** - a fully interactive HTML prototype covering 16 screens:
 
 - Home, Products, Cart
 - Address Selection (all 19 Yangon townships)
@@ -82,14 +82,14 @@ Or simply double-click `index.html` on your desktop.
 
 ## 🛠️ Tech Stack (Prototype)
 
-- **HTML5 / CSS3 / Vanilla JS** — single-file interactive prototype
+- **HTML5 / CSS3 / Vanilla JS** - single-file interactive prototype
 - Hosted via **GitHub Pages**
 
 ---
 
 ## 📦 Product Sourcing
 
-MiVee sources products through **regional wholesale distributors** of international baby and maternal brands present in Myanmar retail (Watsons, Boots, H&M). This is a reseller model — not a direct retail partnership.
+MaVie sources products through **regional wholesale distributors** of international baby and maternal brands present in Myanmar retail (Watsons, Boots, H&M). This is a reseller model - not a direct retail partnership.
 
 ---
 
@@ -107,8 +107,8 @@ MiVee sources products through **regional wholesale distributors** of internatio
 
 ## 👩‍💻 About
 
-MiVee is built by a solo entrepreneur based in Yangon, with a passion for making motherhood a little easier — one delivery at a time. 🌸
+MaVie is built by a solo entrepreneur based in Yangon, with a passion for making motherhood a little easier — one delivery at a time. 🌸
 
 ---
 
-*MiVee Prototype  · Yangon, Myanmar*
+*Mavie  · Yangon, Myanmar*
